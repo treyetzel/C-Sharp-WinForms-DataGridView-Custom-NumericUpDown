@@ -1,4 +1,4 @@
-# C-WinForms-DataGridView-Custom-NumericUpDown
+# C# WinForms DataGridView Custom NumericUpDown
 This is the required classes/code for a custom NumericUpDown control that has leading/trailing symbols in it's textbox (e.g. "$", "%", "Dollars", etc.) embedded in a Windows DataGridView (column & cells).
 
 The code for the DataGridViewNumericUpDownCell, DataGridViewNumericUpDownColumn, and DataGridViewNumericUpDownEditingControl were originally gathered from [here](https://docs.microsoft.com/en-us/previous-versions/aa730881(v=vs.80)?redirectedfrom=MSDN), but modified to work with the CustomNumericUpDown and its properties.
