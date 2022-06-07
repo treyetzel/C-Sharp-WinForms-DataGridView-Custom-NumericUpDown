@@ -5,4 +5,4 @@ The code for the DataGridViewNumericUpDownCell, DataGridViewNumericUpDownColumn,
 
 The code for the CustomNumericUpDown originally came from [here](https://stackoverflow.com/a/38558866/19257264). 
 
-In this repo, these two examples have been merged together and work well
+In this repo, these two examples have been merged together and work well.
